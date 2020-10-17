@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ae3153c-90d2-4e86-872a-4d1b28ff4d1c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +50,29 @@
       <option name="project" value="LOCAL" />
       <updated>1602956386448</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test2">
+      <created>1602957289474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602957289474</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1877" y="96" key="CommitChangelistDialog2" timestamp="1602956386153">
+    <state x="1877" y="96" key="CommitChangelistDialog2" timestamp="1602957289322">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1877" y="96" key="CommitChangelistDialog2/0.23.1440.823/1440.23.1920.1057@1440.23.1920.1057" timestamp="1602956386153" />
-    <state x="1888" y="233" key="Vcs.Push.Dialog.v2" timestamp="1602956392659">
+    <state x="1877" y="96" key="CommitChangelistDialog2/0.23.1440.823/1440.23.1920.1057@1440.23.1920.1057" timestamp="1602957289322" />
+    <state x="1888" y="233" key="Vcs.Push.Dialog.v2" timestamp="1602957292996">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1888" y="233" key="Vcs.Push.Dialog.v2/0.23.1440.823/1440.23.1920.1057@1440.23.1920.1057" timestamp="1602956392659" />
+    <state x="1888" y="233" key="Vcs.Push.Dialog.v2/0.23.1440.823/1440.23.1920.1057@1440.23.1920.1057" timestamp="1602957292996" />
   </component>
 </project>
